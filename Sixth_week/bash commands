@@ -1,0 +1,8 @@
+mkdir -> make directory"name"
+cd -> change directory
+pwd -> print working current directory
+cp -> copy path 
+touch -> creates an empty file
+ls -> list the names of the files
+mv -> moves a file(also renames it)
+rm -> removes files (* removes all the files from the directory)
